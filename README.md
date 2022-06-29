@@ -1,3 +1,3 @@
 # configs
-Configs to everybody
+Configs for IDEA env, TBD
 
